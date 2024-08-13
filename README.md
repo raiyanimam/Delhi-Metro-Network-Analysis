@@ -2,13 +2,13 @@
 Metro Network Analysis is the process of looking at the metro systems' network in order to comprehend its efficacy, efficiency, and structure. It generally looks at stations, routes, traffic, connections, and other operational details. 
 
 Delhi Metro Network Analysis can help in several ways:
-• Improve Efficiency: Identify bottlenecks and optimize scheduling.
-• Optimize Routes: Enhance connections and reduce travel time.
-• Enhance Passenger Experience: Adjust services based on flow patterns and peak times.
-• Predict and Manage Demand: Forecast future needs for planning expansions.
-• Reduce Operational Costs: Identify areas for cost-saving measures.
-• Strategic Planning: Guide future development and network expansion.
-• Safety and Security: Improve safety measures and emergency responses.
+#• Improve Efficiency: Identify bottlenecks and optimize scheduling.
+#• Optimize Routes: Enhance connections and reduce travel time.
+#• Enhance Passenger Experience: Adjust services based on flow patterns and peak times.
+#• Predict and Manage Demand: Forecast future needs for planning expansions.
+#• Reduce Operational Costs: Identify areas for cost-saving measures.
+#• Strategic Planning: Guide future development and network expansion.
+#• Safety and Security: Improve safety measures and emergency responses.
 
 This is the Metro Network Analysis using python
 
